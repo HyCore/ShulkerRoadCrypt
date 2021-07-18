@@ -11,7 +11,9 @@ Discord message encryption plugin that enables client side end-to-end  encryptio
 
 # Installation
 
-For `Chrome` (and similar) [download the extension](https://github.com/HyCore/ShulkerRoadCrypt/archive/refs/heads/main.zip) and unpack it. Click on **Menu > More tools > Extensions**, enable **Developer mode**, click on **Load unpacked** and select the folder where you've unpacked the downloaded file.<br>
+For `Chrome` (and similar)
+[download the extension](https://chrome.google.com/webstore/detail/shulkerroadcrypt/bgheoljmdcaomnakjefkdcpjeocgbgmo) from Chrome Webstore <br>
+Or [download the dev extension](https://github.com/HyCore/ShulkerRoadCrypt/archive/refs/heads/main.zip) and unpack it. Click on **Menu > More tools > Extensions**, enable **Developer mode**, click on **Load unpacked** and select the folder where you've unpacked the downloaded file.<br>
 If you have `Discord installed`, [download the installer](https://raw.githubusercontent.com/HyCore/ShulkerRoadCrypt/main/ShulkerRoadCrypt.ps1). Click the link and press **Ctrl+S** to save it as file. Launch Powershell as administrator, enter this command: `Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass` and enter the path to the file to execute it (i.e. `cd C:\Users\You\Downloads\ShulkerRoadCrypt.ps1`).<br>
 For `mobile` try [Yandex Browser](https://play.google.com/store/apps/details?id=com.yandex.browser). The browser is Chromium based and supports extensions.<br>
 For `Android` install [Discord APK](https://auriane.eu/pages/img/SRDiscord.apk) and be sure to watch the tutorial. <br>
